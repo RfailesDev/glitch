@@ -9,8 +9,7 @@ const tables = [
 
 const alwaysCreateTables = true;
 
-const ApiToken =
-  "123"
+const ApiToken = "123";
 
 const tableKeyLength = 150;
 const tableValueLength = 3500;
